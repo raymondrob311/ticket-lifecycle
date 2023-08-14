@@ -40,7 +40,7 @@ From the admin side, the tickets will appear on their panel once they have logge
 
 <p>
 It is important to communicate with your team if you are unsure of how to resolve the issue. YOu should also let your client or customer know that. Clear communication is paramount when dealing with their IT issue. osTicket also records when a ticket is assigned to someone else within the organization. All tickets are stored and saved just in case a simialar issue appears in the future. 
-</p
+</p>
 <h2>Final Word</h2>
 <p>
 Every ticket will fall into a certain SLA category, depending on it's severity. Some are more important or emergent than others and may need to be dealt with within a certain amount of time. 
